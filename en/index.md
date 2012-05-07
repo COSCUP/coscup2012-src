@@ -14,6 +14,7 @@
   <h2>COSCUP 2011 Videos</h2>
 	<iframe class="video" title="YouTube video player" width="288" height="246" style="width: 288px; height: 246px" src="http://www.youtube.com/embed/dZs-OLcDfSs?playlist=IRCGdKukc38" frameborder="0"  allowfullscreen="allowfullscreen"></iframe>
 	<p class="more"><a href="http://www.youtube.com/playlist?list=PL1E00EBFE2E5E040F">View all »</a></p>
+	<p class="more"><a href="http://www.youtube.com/user/thecoscup">Subscribe COSCUP Videos »</a></p>
   <!-- <h2>COSCUP 2011 Photo Selections</h2>
   <div class="images"></div>
   <p class="more"><a href="http://www.flickr.com/photos/coscup/collections/72157627346455829/">View all »</a></p> -->

@@ -16,7 +16,8 @@
   <p class="more">更多：<a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>、<a href="http://www.plurk.com/psearch#q=COSCUP">噗浪</a> »</p>
 	<h2>COSCUP 2011 演講錄影</h2>
 	<iframe class="video" title="YouTube video player" width="288" height="246" style="width: 288px; height: 246px" src="http://www.youtube.com/embed/dZs-OLcDfSs?playlist=IRCGdKukc38" frameborder="0"  allowfullscreen="allowfullscreen"></iframe>
-	<p class="more"><a href="http://www.youtube.com/playlist?list=PL1E00EBFE2E5E040F">瀏覽 2011 年影片 »</a> 或 <a href="http://www.youtube.com/user/thecoscup">訂閱 COSCUP 頻道 »</a></p>
+	<p class="more"><a href="http://www.youtube.com/playlist?list=PL1E00EBFE2E5E040F">瀏覽 2011 年影片 »</a></p>
+	<p class="more"><a href="http://www.youtube.com/user/thecoscup">訂閱 COSCUP 頻道 »</a></p>
   <!-- <h2>COSCUP 2011 精選照片集</h2>
   <div class="images"></div>
   <p class="more"><a href="http://www.flickr.com/photos/coscup/collections/72157627346455829/">瀏覽全部 »</a></p> -->
