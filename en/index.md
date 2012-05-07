@@ -24,7 +24,7 @@
 
 COSCUP is the largest annual <abbr title="Free/Libre/Open Source Software">FLOSS</abbr> conference organized by local communities in Taiwan. The conference has sessions for new users, enthusiastic promoters, coders or anyone who is interested in cutting-edge <abbr title="Free/Libre/Open Source Software">FLOSS</abbr> technologies. The goal is to create a friendly and informative environment for people from different communities to make friends, learn new technologies and inspire each other.
 
-## COSCUP 2012 Program announced!
+## COSCUP 2012 Call for Proposal!
 
 The main theme of COSCUP 2012 is “Open Device, Seamless Apps Experience”. For more detail, please visit following links.<br>
 <a href="https://docs.google.com/document/d/1jAyF-nh0SQFaAiXOU2I8R1XOZfu_cWyoOMCcD-ffw04/edit"> COSCUP 2012 Call for Proposal</a><br>

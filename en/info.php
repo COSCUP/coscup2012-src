@@ -1,7 +1,7 @@
 <?php
 $contents = array(
 	"index" => "Home",
-	"http://registrano.com/events/coscup2011-regist" => "Register",
+	// "http://registrano.com/events/coscup2011-regist" => "Register",
 	"about" => "About Us",
 	"program" => "Program",
 	"venue" => "Venue",
