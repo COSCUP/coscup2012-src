@@ -41,7 +41,9 @@ switch (location.pathname) {
     // Do not insert location.pathname here to prevent XSS
     document.title = 'Not Available Offline';
     document.body.innerHTML = '<h1>Not Available Offline</h1>'
-      + '<p>The requested URL is not available offline.</p>';
+      + '<p>The requested URL is not available offline.</p>'
+      + '<p>Alternatively, the requested URL was not found on this server, '
+      + 'therefore the browser show this page instead.</p>';
     break;
 }
 
