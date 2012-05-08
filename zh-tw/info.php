@@ -11,4 +11,4 @@ $contents = array(
 	"api" => "API"
 );
 
-$menu_hidden = array("index", "contact", "api");
+$menu_hidden = array("index", "program", "contact", "api");
