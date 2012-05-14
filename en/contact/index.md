@@ -18,4 +18,4 @@ COSCUP IRC Chat is located on Freenode. You may use your favorite IRC software c
 
 ## API
 
-Various information, such as program schedule and list of sponsors, is offered to third-party program via API. For more information, please read the [documentation](http://coscup.org/2011/en/api/).
+Various information, such as program schedule and list of sponsors, is offered to third-party program via API. For more information, please read the [documentation](/2012/en/api/).

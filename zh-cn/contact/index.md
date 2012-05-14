@@ -17,4 +17,4 @@ COSCUP 的 IRC 频道位于 Freenode。请使用您 IRC 软体连上 [chat.freen
 
 ## API
 
-今年的 COSCUP 网站提供议程、赞助单位列表等 API 供第三方程式取用，详细说明请看[API 文件（繁體）](/2011/zh-tw/api/)。
+今年的 COSCUP 网站提供议程、赞助单位列表等 API 供第三方程式取用，详细说明请看[API 文件（繁體）](/2012/zh-tw/api/)。
