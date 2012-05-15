@@ -35,7 +35,7 @@ Get the latest information about COSCUP, or understand further information about
 
 ### Important Dates
 
-* Call for papers: April 20th
-* Program announced: July 18th
+* Call for papers: April 20th ~ June 18th
+* Program announced: July 9th
 * Registration opens: July 16th
 * Conference dates: August 18th - 19st
