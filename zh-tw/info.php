@@ -8,7 +8,8 @@ $contents = array(
 	"http://blog.coscup.org/" => "部落格",
 	"sponsors" => "贊助單位",
 	"contact" => "聯絡資訊",
-	"api" => "API"
+	"api" => "API",
+	"vip"=> "VIP"
 );
 
-$menu_hidden = array("index", "program", "contact", "api");
+$menu_hidden = array("index", "program", "contact", "api",'vip');
