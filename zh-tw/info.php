@@ -12,4 +12,4 @@ $contents = array(
 	"vip"=> "VIP"
 );
 
-$menu_hidden = array("index", "program", "contact", "api",'vip');
+$menu_hidden = array("index", "contact", "api",'vip');
