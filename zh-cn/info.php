@@ -1,7 +1,7 @@
 <?php
 $contents = array(
 	"index" => "首页",
-	// "http://registrano.com/events/coscup2011-regist" => "报名",
+  "http://registrano.com/events/coscup2012-regist" => "报名",
 	"about" => "活动",
 	"program" => "议程",
 	"venue" => "地点",
