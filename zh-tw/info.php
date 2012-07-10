@@ -10,7 +10,8 @@ $contents = array(
 	"contact" => "聯絡資訊",
 	"api" => "API",
 	"vip"=> "VIP",
-	"travel"=> "講者旅遊"
+	"travel"=> "講者旅遊",
+	"dinner"=> "講者晚宴"
 );
 
-$menu_hidden = array("index", "contact", "api","vip","travel");
+$menu_hidden = array("index", "contact", "api","vip","travel","dinner");
