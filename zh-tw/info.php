@@ -9,7 +9,8 @@ $contents = array(
 	"sponsors" => "贊助單位",
 	"contact" => "聯絡資訊",
 	"api" => "API",
-	"vip"=> "VIP"
+	"vip"=> "VIP",
+	"travel"=> "講者旅遊"
 );
 
-$menu_hidden = array("index", "contact", "api",'vip');
+$menu_hidden = array("index", "contact", "api","vip","travel");
