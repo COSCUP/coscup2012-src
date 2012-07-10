@@ -1,6 +1,6 @@
 <?php
 $contents = array(
-	"index" => "講者晚頁"
+	"index" => "Speaker's Dinner Party 講者晚宴"
 );
 
 $menu_hidden = array("index");
