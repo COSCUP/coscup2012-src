@@ -27,11 +27,10 @@
 
 開放原始碼的三大支柱是開發者、使用者與推廣者。開發者（大神）是主要的生產者，但同時也是其它程式的使用者。在使用者瞭解 <abbr title="自由與開放原始碼軟體">FLOSS</abbr> 文化、熟練技能之後，也將成為下一代的開發者或推廣者。推廣者是擴大使用者數目的的重要媒介，也是 COSCUP 最所想扮演的角色。 COSCUP 希望藉由每一屆的年度會議，讓世界各地的 <abbr title="自由與開放原始碼軟體">FLOSS</abbr> 愛好者齊聚一堂，並邀請世界各地的專家上台分享經驗，想法與新的技術，來共同的激發國內外的愛好者更加踴躍投入 <abbr title="自由與開放原始碼軟體">FLOSS</abbr> 的開發與使用。
 
-## COSCUP 2012 議程徵求中！
+## COSCUP 2012 議程已公佈！
 
-今年本屆大會的主題是「Open Device, Seamless Apps Experience」，不論您是資深的技術人員，或是新手，
-只要您願意上台分享與主題相關的技術、經驗、或是心得歡迎投稿到 COSCUP 2012 Proposal Submission，
-今年徵求的講題類型如下，但不限於這些主題：<br>
+COSCUP 2012 的主題定為「Open Device, Seamless Apps Experience」。由開放原始碼及自由軟體衍生而來，具有開放API的嵌入式裝置已經越來越流行。最近，Mozilla的B2G (Boot-to-Gecko)、webOS的開放原始碼版本、Chrome for Android等等，令人興奮的新發展讓以HTML5為基礎的，可攜式跨裝置應用程式更加地有趣，也使得原本只用在Web開發的JavaScript成為用途最廣泛、功能最多的程式語言之一。新型態的應用程式、功能強大的JavaScript、配合Virtualization技術和雲端服務，讓多核心行動裝置的程式開發和使用體驗進入新的境界。然而，行動平台上充滿各種專利陷阱，如何避開法律問題進行自由及開發原始碼的程式開發，也是值得探討的。
+<br>
 <ul>
     <li>Next-Generation OS</li>
     <li>JavaScript Evolution</li>
@@ -42,8 +41,6 @@
 
 更詳細的主題、時程及投稿資訊請見 COSCUP2012 CfP<br>
 <br>
-<a href="https://docs.google.com/document/d/1-DQBxSZIVoeuww9cMWlzsRIoThT0PlaYJ7C8kRE4peE/edit">2012 開源人年會演講徵求書</a><br>
-<a href="http://registrano.com/events/coscup-2012">Proposal Submission 投稿系統</a> (deadline: 6/18)<br>
 
 此外，COSCUP2012 也邀請 KDE/openSUSE 社群提供 KDE/openSUSE 相關議程，更多資訊請見<a href="http://news.opensuse.org/2012/04/03/the-kde-and-opensuse-communities-welcome-you-to-coscup-2012/">連結</a>
 

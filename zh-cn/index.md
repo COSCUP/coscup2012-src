@@ -29,9 +29,8 @@
 
 ## COSCUP 2012 议程征求中！
 
-今年本届大会的主题是「Open Device, Seamless Apps Experience」，不论您是资深的技术人员，或是新手，
-只要您愿意上台分享与主题相关的技术、经验、或是心得欢迎投稿到 COSCUP 2012 Proposal Submission，
-今年征求的讲题类型如下，但不限于这些主题：<br>
+COSCUP 2012 的主题定为「Open Device, Seamless Apps Experience」。由开放原始码及自由软体衍生而来，具有开放API的嵌入式装置已经越来越流行。最近，Mozilla的B2G (Boot-to-Gecko)、webOS的开放原始码版本、Chrome for Android等等，令人兴奋的新发展让以HTML5为基础的，可携式跨装置应用程式更加地有趣，也使得原本只用在Web开发的JavaScript成为用途最广泛、功能最多的程式语言之一。新型态的应用程式、功能强大的JavaScript、配合Virtualization技术和云端服务，让多核心行动装置的程式开发和使用体验进入新的境界。然而，行动平台上充满各种专利陷阱，如何避开法律问题进行自由及开发原始码的程式开发，也是值得探讨的。
+<br>
 <ul>
     <li>Next-Generation OS</li>
     <li>JavaScript Evolution</li>
@@ -39,11 +38,6 @@
     <li>Legal Impact</li>
     <li>Any other free software / open source related issues</li>
 </ul>
-
-更详细的主题、时程及投稿信息请见 COSCUP2012 CfP<br>
-<br>
-<a href="https://docs.google.com/document/d/1-DQBxSZIVoeuww9cMWlzsRIoThT0PlaYJ7C8kRE4peE/edit">2012年开源人年会演讲征求书</a><br>
-<a href="http://registrano.com/events/coscup-2012">Proposal Submission 投稿系统</a> (deadline: 6/18)<br>
 
 此外，COSCUP2012 也邀请 KDE/openSUSE 社群提供 KDE/openSUSE 相关议程，更多信息请见<a href="http://news.opensuse.org/2012/04/03/the-kde-and-opensuse-communities-welcome-you-to-coscup-2012/">连结</a>
 

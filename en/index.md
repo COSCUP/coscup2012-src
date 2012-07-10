@@ -24,10 +24,17 @@
 
 COSCUP is the largest annual <abbr title="Free/Libre/Open Source Software">FLOSS</abbr> conference organized by local communities in Taiwan. The conference has sessions for new users, enthusiastic promoters, coders or anyone who is interested in cutting-edge <abbr title="Free/Libre/Open Source Software">FLOSS</abbr> technologies. The goal is to create a friendly and informative environment for people from different communities to make friends, learn new technologies and inspire each other.
 
-## COSCUP 2012 Call for Proposal!
+## COSCUP 2012 Program announced!
 
-The main theme of COSCUP 2012 is “Open Device, Seamless Apps Experience”. For more detail, please visit following links.<br>
-<a href="https://docs.google.com/document/d/1jAyF-nh0SQFaAiXOU2I8R1XOZfu_cWyoOMCcD-ffw04/edit"> COSCUP 2012 Call for Proposal</a><br>
+Embedded devices providing open APIs with stuff derived from open source and free software are getting more and more popular. Recently, some exciting new developments, such as Mozilla's Boot-to-Gecko (B2G), webOS's upcoming open source version, and Chrome for Android, are making HTML5-based portable cross-device web applications more and more interesting. It also brings JavaScript, used only in Web develop in the past, as one of the most popular and powerful programming languages. New mode of applications, powerful JavaScript language, virtualization technologies, and cloud services advance the development and user experience of multi-core mobile devices. However, the pitfall of patent hides in mobile platform. How to avoid legal disputes is worth discussing. We are now soliciting talk proposals for the followings related topics.
+<br>
+<ul>
+    <li>Next-Generation OS</li>
+    <li>JavaScript Evolution</li>
+    <li>Virtualization & Cloud</li>
+    <li>Legal Impact</li>
+    <li>Any other free software / open source related issues</li>
+</ul>
 
 ## COSCUP Channel on YouTube!
 
