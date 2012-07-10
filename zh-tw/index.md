@@ -39,7 +39,7 @@ COSCUP 2012 的主題定為「Open Device, Seamless Apps Experience」。由開�
     <li>Any other free software / open source related issues</li>
 </ul>
 
-更詳細的主題、時程及投稿資訊請見 COSCUP2012 CfP<br>
+更詳細的主題、時程資訊請見 <a href="/2012/zh-tw/program/">COSCUP2012 議程</a><br>
 <br>
 
 此外，COSCUP2012 也邀請 KDE/openSUSE 社群提供 KDE/openSUSE 相關議程，更多資訊請見<a href="http://news.opensuse.org/2012/04/03/the-kde-and-opensuse-communities-welcome-you-to-coscup-2012/">連結</a>

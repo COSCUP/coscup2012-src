@@ -36,6 +36,8 @@ Embedded devices providing open APIs with stuff derived from open source and fre
     <li>Any other free software / open source related issues</li>
 </ul>
 
+More info please view <a href="/2012/en/program/">COSCUP 2012 Program</a>.
+
 ## COSCUP Channel on YouTube!
 
 Get the latest information about COSCUP, or understand further information about open source softwares and communities. Visit [TheCOSCUP Channel on YouTube](http://www.youtube.com/user/thecoscup) now!
