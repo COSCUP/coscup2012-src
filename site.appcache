@@ -1,4 +1,4 @@
-CACHE MANIFEST
+# disable -- CACHE MANIFEST
 
 # Files to ask browsers to cache even when user hits reload
 CACHE:
