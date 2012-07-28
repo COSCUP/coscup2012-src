@@ -48,7 +48,7 @@ COSCUP team have aggregated following hotel information for your convenience.
 * Phone: +886-2-8780-8000
 * Location: MRT Taipei City Hall
 
-**[Forward Hotel Taipei (台北馥華商旅 南港)](http://www.fwhotel.tw/ng/frame_en.html)**
+**[Forward Hotel Taipei (台北馥華商旅 南港)](http://fw.tfhg.com.tw/about_en.php)**
 
 * Price: US$150
 * Address: No.23, Sanchong Rd., Nangang Dist., Taipei City, Taiwan (台北市南港區三重路23號)
