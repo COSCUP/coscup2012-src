@@ -11,7 +11,8 @@ $contents = array(
 	"api" => "API",
 	"vip"=> "VIP",
 	"travel"=> "講者旅遊",
-	"dinner"=> "講者晚宴"
+	"dinner"=> "講者晚宴",
+	"questionnaire"=> "會後問卷"
 );
 
-$menu_hidden = array("index", "contact", "api","vip","travel","dinner");
+$menu_hidden = array("index", "contact", "api","vip","travel","dinner","questionnaire");
